@@ -5,3 +5,7 @@ I created a temperature sensing calculator using Arduino Uno. It can sense the t
 I had to download the keypad library which you can find here: https://playground.arduino.cc/Code/Keypad/
 
 Here is the link to the preview: 
+
+
+https://user-images.githubusercontent.com/115516035/212577940-51721b81-39fc-4900-a6b4-49dcaf28be62.mp4
+
