@@ -1,1 +1,1 @@
-# TemperatureSensingCalculator
+# Temperature-Sensing-Calculator
